@@ -1,0 +1,15 @@
+C:\Users\faruk\Desktop\case\case\case\bin\Debug\@case.exe.config
+C:\Users\faruk\Desktop\case\case\case\bin\Debug\@case.exe
+C:\Users\faruk\Desktop\case\case\case\bin\Debug\@case.pdb
+C:\Users\faruk\Desktop\case\case\case\bin\Debug\Control.Draggable.dll
+C:\Users\faruk\Desktop\case\case\case\obj\Debug\case.csproj.AssemblyReference.cache
+C:\Users\faruk\Desktop\case\case\case\obj\Debug\case.csproj.SuggestedBindingRedirects.cache
+C:\Users\faruk\Desktop\case\case\case\obj\Debug\case.Form1.resources
+C:\Users\faruk\Desktop\case\case\case\obj\Debug\case.Properties.Resources.resources
+C:\Users\faruk\Desktop\case\case\case\obj\Debug\case.csproj.GenerateResource.cache
+C:\Users\faruk\Desktop\case\case\case\obj\Debug\case.csproj.CoreCompileInputs.cache
+C:\Users\faruk\Desktop\case\case\case\obj\Debug\case.csproj.CopyComplete
+C:\Users\faruk\Desktop\case\case\case\obj\Debug\@case.exe
+C:\Users\faruk\Desktop\case\case\case\obj\Debug\@case.pdb
+C:\Users\faruk\Desktop\case\case\case\bin\Debug\ImageResizer.dll
+C:\Users\faruk\Desktop\case\case\case\bin\Debug\ImageResizer.xml
